@@ -1,4 +1,4 @@
-## My Forest: Monitor Trees Planted Using the Rewards Points
+## My Forest: Plant Trees Using the Rewards Points
 
 #### A web app addition to the RBC Reward system that allows RBC customers to use their rewards points for tree planting and to monitor the status of the tree planting activities, through a digital graphic.
 
