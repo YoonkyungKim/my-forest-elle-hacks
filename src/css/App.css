@@ -1,0 +1,38 @@
+h1, h2, h3 {
+  font-family: 'Roboto', sans-serif;
+}
+
+.success-heading-container {
+  background-color: #EBEAE9;
+  padding: 100px 0;
+  text-align: center;
+}
+
+.success-heading {
+  font-family: 'Merriweather';
+  font-weight: 500;
+}
+
+.impact-body {
+  background-color: #EBEAE9;
+}
+
+.impact-box {
+  padding: 30px;
+  background-color: #ffffff;
+  margin: 20px;
+  font-family: 'Merriweather';
+  /* font-family: 'Roboto'; */
+}
+
+.impact-img-box {
+  width: 300px;
+}
+
+/* .impact-img-box img {
+  width: 50%;
+} */
+
+.impact-text-box {
+  display: block;
+}

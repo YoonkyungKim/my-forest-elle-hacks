@@ -1,0 +1,46 @@
+.home-point-status {
+    background-color: #EAEAEA;
+    max-width: 100% !important;
+    box-shadow: 0 3px 4px 0 rgba(0, 0, 0, 0.2), 0 3px 5px 0 rgba(0, 0, 0, 0.19);
+}
+
+.point-container {
+    padding: 10px 28px;
+}
+
+.point-p {
+    margin: 3px 0 0 0 !important;
+    font-size: 0.9rem;
+    position: relative;
+}
+
+.point-p-serif {
+    font-family: 'Merriweather';
+    font-style: italic;
+    font-size: 0.85rem;
+}
+
+.point-value {
+    font-size: 1.4rem;
+    font-weight: 500;
+}
+
+.point {
+    /* height: 100%; */
+    justify-content: flex-end;
+    align-self: center;
+    align-items: center;
+}
+
+.point-right {
+    padding-left: 25px !important;
+    text-align: left;
+}
+
+.vertical-line {
+    border-left: 1px solid rgb(179, 178, 178);
+    max-height: 100%;
+    left: 50%;
+    margin-left: -3px;
+    top: 0;
+}

@@ -1,0 +1,37 @@
+import React from 'react';
+
+function Trees() {
+
+    return (
+        <div>
+            <section id="watch-it-grow" style={{position: "relative"}}>
+                {/* <lottie-player src="https://assets8.lottiefiles.com/private_files/lf30_vfgwrgqf.json" background="transparent" speed="1" style={{ width: '300px', height: '300px' }} autoplay></lottie-player> */}
+                <lottie-player src="https://assets3.lottiefiles.com/private_files/lf30_I6qCjk.json"  background="transparent"  speed="1"  style={{width: '300px', height: '300px', display: 'inline', marginLeft: '-10px', position: 'relative', top: '82px', left: '-100px' }}  loop autoplay></lottie-player>
+                <lottie-player src="https://assets2.lottiefiles.com/private_files/lf30_PbN3Pc.json"  background="transparent"  speed="1"  style={{width: '300px', height: '300px', display: 'inline', marginLeft: '-5%', position: 'absolute', top: '96px', left: '120px'}} loop autoplay></lottie-player>
+                <lottie-player src="https://assets2.lottiefiles.com/private_files/lf30_Iztr8s.json"  background="transparent"  speed="1"  style={{width: '600px', height: '600px', display: 'inline', marginLeft: '-10%', position: 'absolute', top: '-95px', left: '180px' }} autoplay></lottie-player>
+                <lottie-player src="https://assets3.lottiefiles.com/private_files/lf30_I6qCjk.json"  background="transparent"  speed="1"  style={{width: '500px', height: '500px', display: 'inline', marginLeft: '-10%', position: 'absolute', top: '-23px', left: '200px' }}  loop autoplay></lottie-player>
+                <lottie-player src="https://assets2.lottiefiles.com/private_files/lf30_Iztr8s.json"  background="transparent"  speed="1"  style={{width: '700px', height: '700px', display: 'inline', marginLeft: '-10%', position: 'absolute', top: '-158px'}}  autoplay></lottie-player>
+                <lottie-player src="https://assets2.lottiefiles.com/private_files/lf30_PbN3Pc.json"  background="transparent"  speed="1"  style={{width: '400px', height: '400px', display: 'inline', marginLeft: '-30%', position: 'absolute', top: '35px'}}  loop autoplay></lottie-player>
+                <lottie-player src="https://assets2.lottiefiles.com/private_files/lf30_Iztr8s.json"  background="transparent"  speed="1"  style={{width: '600px', height: '600px', display: 'inline', marginLeft: '-10%', position: 'absolute', top: '-95px'}} autoplay></lottie-player>
+                <lottie-player src="https://assets2.lottiefiles.com/private_files/lf30_Iztr8s.json"  background="transparent"  speed="1"  style={{width: '700px', height: '700px', display: 'inline', marginLeft: '-10%', position: 'absolute', top: '-158px', left: '50px'}}  autoplay></lottie-player>
+                <lottie-player src="https://assets2.lottiefiles.com/private_files/lf30_PbN3Pc.json"  background="transparent"  speed="1"  style={{width: '400px', height: '400px', display: 'inline', marginLeft: '-30%', position: 'absolute', top: '35px', left: '120px'}}  autoplay></lottie-player>
+                <lottie-player src="https://assets3.lottiefiles.com/private_files/lf30_I6qCjk.json"  background="transparent"  speed="1"  style={{width: '500px', height: '500px', display: 'inline', marginLeft: '-10%', position: 'absolute', top: '-23px', left: '120px'}}  loop autoplay></lottie-player>
+                <lottie-player src="https://assets3.lottiefiles.com/private_files/lf30_I6qCjk.json"  background="transparent"  speed="1"  style={{width: '300px', height: '300px', display: 'inline', marginLeft: '-8%', position: 'absolute', top: '98px', left: '120px' }}  autoplay></lottie-player>
+                <lottie-player src="https://assets2.lottiefiles.com/private_files/lf30_Iztr8s.json"  background="transparent"  speed="1"  style={{width: '700px', height: '700px', display: 'inline', marginLeft: '30%', position: 'absolute', top: '-158px', left: '50px'}}  loop autoplay></lottie-player>
+                <lottie-player src="https://assets2.lottiefiles.com/private_files/lf30_PbN3Pc.json"  background="transparent"  speed="1"  style={{width: '400px', height: '400px', display: 'inline', marginLeft: '64%', position: 'absolute', top: '35px', left: '120px'}}  autoplay></lottie-player>
+                <lottie-player src="https://assets3.lottiefiles.com/private_files/lf30_I6qCjk.json"  background="transparent"  speed="1"  style={{width: '500px', height: '500px', display: 'inline', marginLeft: '20%', position: 'absolute', top: '-23px', left: '120px'}}  loop autoplay></lottie-player>
+                <lottie-player src="https://assets3.lottiefiles.com/private_files/lf30_I6qCjk.json"  background="transparent"  speed="1"  style={{width: '300px', height: '300px', display: 'inline', marginLeft: '50%', position: 'absolute', top: '98px', left: '120px' }}  autoplay></lottie-player>
+                <lottie-player src="https://assets2.lottiefiles.com/private_files/lf30_PbN3Pc.json"  background="transparent"  speed="1"  style={{width: '400px', height: '400px', display: 'inline', marginLeft: '61%', position: 'absolute', top: '35px', left: '200px'}}  autoplay></lottie-player>
+                <lottie-player src="https://assets3.lottiefiles.com/private_files/lf30_I6qCjk.json"  background="transparent"  speed="1"  style={{width: '500px', height: '500px', display: 'inline', marginLeft: '46%', position: 'absolute', top: '-23px', left: '120px'}}  loop autoplay></lottie-player>
+                <lottie-player src="https://assets3.lottiefiles.com/private_files/lf30_I6qCjk.json"  background="transparent"  speed="1"  style={{width: '300px', height: '300px', display: 'inline', marginLeft: '37%', position: 'absolute', top: '98px', left: '160px' }}  autoplay></lottie-player>
+                <lottie-player src="https://assets2.lottiefiles.com/private_files/lf30_Iztr8s.json"  background="transparent"  speed="1"  style={{width: '700px', height: '700px', display: 'inline', marginLeft: '42%', position: 'absolute', top: '-158px', left: '50px'}}  loop autoplay></lottie-player>
+                <lottie-player src="https://assets2.lottiefiles.com/private_files/lf30_PbN3Pc.json"  background="transparent"  speed="1"  style={{width: '400px', height: '400px', display: 'inline', marginLeft: '27%', position: 'absolute', top: '35px', left: '120px'}}  loop autoplay></lottie-player>
+                <lottie-player src="https://assets3.lottiefiles.com/private_files/lf30_I6qCjk.json"  background="transparent"  speed="1"  style={{width: '500px', height: '500px', display: 'inline', marginLeft: '41%', position: 'absolute', top: '-23px', left: '120px'}}  loop autoplay></lottie-player>
+                <lottie-player src="https://assets3.lottiefiles.com/private_files/lf30_I6qCjk.json"  background="transparent"  speed="1"  style={{width: '500px', height: '500px', display: 'inline', marginLeft: '56%', position: 'absolute', top: '-23px', left: '120px'}}  autoplay></lottie-player>
+                <lottie-player src="https://assets2.lottiefiles.com/private_files/lf30_Iztr8s.json"  background="transparent"  speed="1"  style={{width: '700px', height: '700px', display: 'inline', marginLeft: '62%', position: 'absolute', top: '-158px', left: '50px'}}  loop autoplay></lottie-player>
+            </section>
+        </div>
+    )
+}
+
+export default Trees;

@@ -1,0 +1,94 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+/* header */
+
+.covid-update {
+    background-color: #2461A4;
+    color: #ffffff;
+    padding: 0.8rem 1rem;
+    font-family: 'Roboto', sans-serif;
+    font-weight: 300;
+    font-size: 1rem;
+}
+
+.covid-update a {
+    color: #ffffff;
+}
+
+.header-container {
+    padding: 1.2rem 0;
+}
+
+.header-right-container {
+    overflow: hidden;
+    line-height: 100%;
+    height: 100%;
+    justify-content: flex-end;
+    align-self: center;
+    display: flex;
+    align-items: center;
+}
+
+.input-container {
+    display: flex;
+    position: relative;
+}
+
+.language-container {
+    margin-right: 10px;
+}
+
+.language {
+    color:  #8F6B1E;
+}
+
+.header-input {
+    border: none;
+    padding: 0.7rem 0;
+}
+
+.header-btn {
+    padding: 0.7rem 1.4rem;
+    margin-right: 10px;
+}
+
+.join-btn {
+    border: 1.5px solid #8F6B1E;
+    background-color: #ffffff;
+    color: #8F6B1E;  
+}
+
+.signIn-btn {
+    border: 1.5px solid #8F6B1E;
+    background-color: #8F6B1E;
+    color: #ffffff;
+}
+
+/* navbar */
+
+.navbar {
+    background-color: #FFFFFF;
+    padding: 1.5% 3%;
+    background: linear-gradient(45deg,#0060a9 40%,#002855 40%,#002855 60%,transparent 60%),linear-gradient(135deg,transparent 40%,#002855 40%,#002855 66%,#000 66%);
+}
+
+.nav-item {
+    padding: 0 20px;
+}
+
+.nav-link {
+    color: #ffffff;
+    opacity: 100%;
+}
+
+.navbar-toggler {
+    border-color: #ffffff;
+}
+
+.shop-redeem-btn span {
+    background-color: #2461A4;
+    color: #ffffff;
+}

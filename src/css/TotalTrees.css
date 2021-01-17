@@ -1,0 +1,32 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+/* total tree planted to date */
+#total-tree {
+    text-align: center;
+}
+
+#total-tree h3 {
+    font-family: 'Roboto', sans-serif;
+}
+
+.total-trees-number {
+    font-weight: 500;
+    font-size: 2rem;
+    color: #8F6B1E;
+}
+
+#total-tree .section-header {
+    margin: 6rem 4rem 4rem 4rem;
+    padding-bottom: 2rem;
+    border-bottom: solid grey;
+    border-width: 1px;
+}
+
+.tree-icons {
+    color: #35b49a;
+    font-size: xx-large;
+    margin-bottom: 8rem;
+}

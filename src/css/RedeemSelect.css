@@ -1,0 +1,127 @@
+/* drop-down */
+.redeem-select-container {
+    font-family: "Roboto";
+}
+
+.redeem-input {
+    border: none;
+    border-bottom: 0.5px solid #8F6B1E;
+    border-radius: 0;
+    padding: 8px 0 8px -5px;
+    font-size: 1.2rem;
+    font-weight: 500;
+    color: #8F6B1E;
+    margin: 0 5px;
+}
+
+.points-text {
+    font-family: "Roboto";
+    color: #8F6B1E;
+    font-style: italic;
+    font-size: 0.9rem;
+}
+
+.redeem-total {
+    color: #8F6B1E;
+    font-weight: 500;
+    margin: 0 80px;
+}
+
+.drop-down-container {
+    margin: 20px 0;
+    background-color: white;
+    display: flex;
+    height: 3rem;
+    justify-content: space-around;
+}
+
+#i-want-to-redeem {
+    flex-grow: 0.5;
+    padding: 0.5rem;
+    margin-left: 7rem;
+}
+  
+.drop-down-container button {
+    color: #ffffff;
+    border-color: #2461A4;
+    background-color: #2461A4;
+    border-width: 1px;
+    padding: 0.7rem 1rem;
+    border-radius: 0 !important;   /*remove boostrap border-radius*/
+}
+
+.drop-down-container .dropdown-menu {
+    width: 100%; 
+}
+
+.drop-down-container .dropdown button {
+    width: 18rem;
+}
+
+.drop-down-container #points {
+    text-align: left;
+    margin-left: 2rem;
+    align-self: center;   /* vertical */
+    flex-grow: 1;
+}
+
+.drop-down-container #redeem-btn {
+    flex-grow: 4;
+    text-align: right;
+    margin-right: 7rem;
+}
+
+/* #redeem-btn a {  remove styling */
+    /* color: inherit; 
+    text-decoration: inherit; 
+} */
+
+.redeem-btn {
+    padding: 0.7rem 1.4rem;
+    margin-right: 10px;
+    border: 1.5px solid #2461A4;
+    background-color: #2461A4;
+    color: #ffffff; 
+} 
+
+.redeem-btn a {
+    color: #ffffff;
+}
+
+/* watch it grow */
+/* ============ THIS IS A PLACEHOLDER ================ */
+#watch-it-grow {
+    background-color: rgb(235, 234, 233);
+    padding: -1rem;
+    height: 40vh;
+}
+
+.intro-text-container {
+    background-color: rgb(235, 234, 233);
+    padding: 10px 10px 20px 10px;
+}
+
+.intro-text {
+    text-align: center;
+    background-color: #ffffff;
+    margin: 30px 30px -10px 30px;
+    padding: 20px;
+}
+
+.intro-text h2, .intro-text h5 {
+    font-weight: 300;
+}
+
+.intro-text h2 {
+    margin-bottom: 15px;
+}
+
+.intro-text h5 {
+    margin-bottom: 2px;
+}
+
+.intro-text p {
+    margin-top: 15px;
+    font-weight: 100;
+    font-size: 0.7rem;
+}
