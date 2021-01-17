@@ -2,7 +2,13 @@
 
 #### A web app addition to the RBC Reward system that allows RBC customers to use their rewards points for tree planting and to monitor the status of the tree planting activities, through a digital graphic.
 
-- This app is built based on @Kayx23's https://github.com/Kayx23/my-forest-elle-hack repository's code, built with pair programming.
+- Project team members:  
+  - Traky Deng @Kayx23 - Web app design + Project Management  
+  - Julie Boulos @jrboulos - Front-end Development, Idea Creation  
+  - Grace Tse @gracetse225 - UI Design  
+  - Yoonkyung Kim - Front-end Development with React  
+
+  - _Note: This app is built based on @Kayx23's https://github.com/Kayx23/my-forest-elle-hack repository's code, built with pair programming._
 
 Everybody loves to have a sense of ownership. With this logic, wouldn't it be more engaging if we can monitor the real-time progress of the tree(s) we sponsor to plant, instead of receiving a simple "Thank You" message or a piece of static certificate?
 
