@@ -3,8 +3,8 @@
 #### A web app addition to the RBC Reward system that allows RBC customers to use their rewards points for tree planting and to monitor the status of the tree planting activities, through a digital graphic.
 
 - Project team members:  
-  - Traky Deng @Kayx23 - Web app design + Project Management  
-  - Julie Boulos @jrboulos - Front-end Development, Idea Creation  
+  - Traky Deng @Kayx23 - Front-end Development, Idea Creation
+  - Julie Boulos @jrboulos - Web app design + Project Management  
   - Grace Tse @gracetse225 - UI Design  
   - Yoonkyung Kim - Front-end Development with React  
 
